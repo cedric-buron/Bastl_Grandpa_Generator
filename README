@@ -1,0 +1,11 @@
+Pure Data patch for .wav file generation for Bastl Grandpa eurorack module
+
+Features :
+- modulation editor
+- length specification in ms/bpm,measure, sample
+- normalization, rectification smooth processing function
+- additive lfo generator
+- save file as 22050hz/16bit/mono .wav file
+- bugs ;)
+
+contact : human.koala@gmail.com
